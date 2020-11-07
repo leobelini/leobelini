@@ -40,5 +40,75 @@ const about = {
 ```
 
 <!--START_SECTION:waka-->
-LOCALE=pt_BR
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 1,208 Contributions in the Year 2020
+ > 
+> 📦 8.3 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 4 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    133 commits    ████████████░░░░░░░░░░░░░   48.36% 
+🌆 Daytime    103 commits    █████████░░░░░░░░░░░░░░░░   37.45% 
+🌃 Evening    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
+Tuesday      79 commits     ███████░░░░░░░░░░░░░░░░░░   28.73% 
+Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
+Thursday     51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.55% 
+Friday       33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.36%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/leobelini/leobelini/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
