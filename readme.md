@@ -40,4 +40,5 @@ const about = {
 ```
 
 <!--START_SECTION:waka-->
+SHOW_COMMIT
 <!--END_SECTION:waka-->
