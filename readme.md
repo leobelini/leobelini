@@ -40,5 +40,5 @@ const about = {
 ```
 
 <!--START_SECTION:waka-->
-SHOW_COMMIT
+LOCALE=pt_BR
 <!--END_SECTION:waka-->
