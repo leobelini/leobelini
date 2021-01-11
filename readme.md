@@ -14,7 +14,7 @@ Atualmente trabalho numa Stack onde cerca de 90% é JavaScript/TypeScript, tanto
 ## Um pouco mais sobre mim...
 ```javascript
 const about = {
-  code: [`JavaScript`, `TypeScript`, `PHP`, `C#`, "NoSQL", "SQL"],
+  code: [`JavaScript`, `TypeScript`, `PHP`, `C#`, `NoSQL`, `SQL`],
   askMeAbout: [`desenvolvimento`, `tecnologia`],
   technologies: {
     mobileApp: [`React Native`],
